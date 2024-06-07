@@ -18,7 +18,7 @@ This course is designed for beginners who have no prior knowledge of programming
   - **Practical Session:**
     - Building a simple webpage using HTML, CSS, and Bootstrap
 
-### Lecture 2: Basics of JavaScript
+### Lecture 2: Basics of JavaScript //next lec
 - **Duration:** 3 hours
 - **Content:**
   - **Fundamental Concepts:**
